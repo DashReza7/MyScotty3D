@@ -1,3 +1,5 @@
+### TO BE DONE
+
 # Scotty3D
 
 Scotty3D is the 3D modeling, rendering, and animation package that students complete as part of [15-462/662 Computer Graphics](http://15462.courses.cs.cmu.edu) at Carnegie Mellon University.
